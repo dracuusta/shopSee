@@ -1,0 +1,8 @@
+@font-face {
+    font-family: shopFont;
+    src: url("./fonts/SKATERDUDES.ttf");
+}
+
+h1{
+    font-family:shopFont, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

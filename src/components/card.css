@@ -1,0 +1,21 @@
+@font-face {
+    font-family: shopFont;
+    src: url('./fonts/SKATERDUDES.ttf');
+}
+
+body {
+    font-family: shopFont;
+}
+
+div{
+    font-family: shopFont;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+  }

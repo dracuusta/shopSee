@@ -1,0 +1,44 @@
+.welcome-container {
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(245, 255, 230); /* Light grey background */
+}
+
+h1 {
+    font-size: xx-large;
+    color: #333; /* Dark grey text for contrast */
+    margin-bottom: 20px;
+}
+
+.buttons-container {
+    margin-top: 30px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shop-now-button {
+    background-color: black; 
+    color: white;
+}
+
+.shop-now-button:hover {
+    background-color: rgb(245, 255, 230); 
+    color:black
+}
+
+.learn-more-button {
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+}
+
+.learn-more-button:hover {
+    background-color: black; /* Blue */
+    color: white;
+}

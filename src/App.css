@@ -1,0 +1,12 @@
+@font-face {
+    font-family: shopFont;
+    src: url('./fonts/SKATERDUDES.ttf');
+}
+
+body {
+    font-family: shopFont, sans-serif;
+}
+
+body button {
+    font-family: shopFont, sans-serif;
+}
